@@ -1,7 +1,7 @@
 <!-- Header Gambar -->
-<div align="center">
+<!-- <div align="center">
   <img src="./img/wallpaper.png" alt="Background" width="30%" />
-</div>
+</div> -->
 
 ## Selamat Datang 👋
 Halo, saya **Chandra Irawan**  
@@ -14,7 +14,7 @@ Selamat datang di GitHub saya! 🚀
 - 🌱 Saat ini sedang belajar **JavaScript, React, dan Node.js**  
 - 👯 Terbuka untuk kolaborasi dalam proyek open source  
 - 💬 Tanya saya tentang **Web Development & SIMRS**  
-- 📫 Hubungi saya di: [Email](mailto:email@example.com) | [LinkedIn](https://linkedin.com/in/chandra-irawan)  
+- 📫 Hubungi saya di: [Email](mailto:chandra.irawan17@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chandra-irawan-968174b5/)  
 
 ---
 
