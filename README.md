@@ -1,6 +1,6 @@
 <!-- Header Gambar -->
 <div align="center">
-  <img src="./img/wallpaper.png" alt="Background" width="100%" />
+  <img src="./img/wallpaper.png" alt="Background" width="30%" />
 </div>
 
 ## Selamat Datang 👋
