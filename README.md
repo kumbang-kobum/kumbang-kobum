@@ -25,7 +25,9 @@ Selamat datang di GitHub saya! 🚀
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)  
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
+![Fedora](https://img.shields.io/badge/-Fedora-294172?logo=fedora&logoColor=white&style=flat)  
+![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?logo=wireguard&logoColor=white&style=flat)  
 
 ---
 
