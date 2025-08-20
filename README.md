@@ -1,4 +1,4 @@
-## Hi there 👋
+## Selamat Datang Github Chandra Irawan 👋
 
 <!--
 **kumbang-kobum/kumbang-kobum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ... RSU Handayani Kotabumi
+- 🌱 I’m currently learning ... STMIK Surya Intan Kotabumi
+- 🌱 I’m currently learning ... IBI Darmajaya Bandar Lampung
