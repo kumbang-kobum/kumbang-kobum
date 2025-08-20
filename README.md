@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Tempat Kerja ... RSU Handayani Kotabumi
-- 🌱 I’m currently learning ... STMIK Surya Intan Kotabumi
-- 🌱 I’m currently learning ... IBI Darmajaya Bandar Lampung
