@@ -6,6 +6,7 @@
 ## Selamat Datang 👋
 Halo, saya **Chandra Irawan**  
 Selamat datang di GitHub saya! 🚀  
+- Silahkan ambil dan gunakan dengan bijak, mohon untuk tidak diperjual belikan
 
 ---
 
