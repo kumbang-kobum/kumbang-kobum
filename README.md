@@ -18,6 +18,10 @@ Selamat datang di GitHub saya! 🚀
 - 📫 Hubungi saya di: [Email](mailto:chandra.irawan17@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chandra-irawan-968174b5/)  
 
 ---
+### Teraktir Saya
+Traktir Kopi BCA 8110400102 A/N Chandra Irawan** ☕🙏
+👉 Saweria.co](https://saweria.co/KumbangKobum)
+
 
 ### ⚙️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
