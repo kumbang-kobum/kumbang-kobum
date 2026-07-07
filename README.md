@@ -36,11 +36,4 @@ Traktir Kopi BCA 8110400102 A/N Chandra Irawan** ☕🙏
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumbang-kobum&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumbang-kobum&layout=compact&theme=tokyonight)
-
----
-
 ✨ Terima kasih sudah mampir ke profil saya! ✨
